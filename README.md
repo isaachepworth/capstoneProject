@@ -10,3 +10,4 @@ This project was designed for the Orchestra of Southern Utah, to fill a need tha
             MonthTextField.text = String(MonthTextField.text![..<index!])
         }
     }
+In order to run the app, make sure you have Xcode 9 installed, download the zip file and decompress it, then run it in the simulator.
